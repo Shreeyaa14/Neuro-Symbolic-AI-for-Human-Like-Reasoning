@@ -69,3 +69,8 @@ Human intelligence relies on fast, intuitive perception and slow, analytical rea
 * Logical answers to reasoning questions
 * Interpretable reasoning steps and inference paths
 
+<img width="1214" height="649" alt="opn 2" src="https://github.com/user-attachments/assets/5a7a2c63-44f7-41a1-b4f4-2805870e5362" />
+
+<img width="1075" height="720" alt="opn 3" src="https://github.com/user-attachments/assets/0780a6ea-130a-4dad-b924-c8a2f9e32058" />
+
+<img width="1103" height="686" alt="opn 4" src="https://github.com/user-attachments/assets/ee472236-465e-45cd-b6e1-e4c0141d924d" />
